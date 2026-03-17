@@ -1,4 +1,4 @@
-# Aggregations-COUNT-SUM-AVG-GROUP-BY-
+# aggregations-count-sum-avg-group-by-
 
 ## A practical lesson covering SQL aggregation functions and data grouping techniques.
 
